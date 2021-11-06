@@ -14,8 +14,8 @@ Here is an introductory landing page for P8105 Homework 4. This page contains a 
 ## Links to My World 
 
 Here is a link to my academic and professional experiences:
-* [Resume](https://www.google.com/)
 
+* [Resume](about.html)
 
 
 

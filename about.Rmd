@@ -1,0 +1,11 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Here is a brief rundown of my academic and professional achievements. 
+
+Here's back to the [index](index.html) page
