@@ -8,8 +8,13 @@ output:
 ---
 
 
-#Hello World!
-Here is an introductory landing page for P8105 Homework 4. This page contains links to my academic and professional experience, as well as my responses to Problem #2 which explores relationships in ____ data. 
+# Hello World!
+Here is an introductory landing page for P8105 Homework 4. This page contains a link to my academic and professional experience, as well as my responses to Problem #2 which explores relationships in ____ data. 
+
+## Links to My World 
+
+Here is a link to my academic and professional experiences:
+* [Resume](https://www.google.com/)
 
 
 
