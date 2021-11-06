@@ -1,11 +1,32 @@
 ---
-title: "About"
+title: "About Me"
 output: 
   html_document:
-    toc: true
-    toc_float: true
+    theme: flatly
 ---
 
-Here is a brief rundown of my academic and professional achievements. 
 
-Here's back to the [index](index.html) page
+
+Here is a brief rundown of my relevant academic and professional achievements: 
+
+# Education
+
+* Columbia University, *Mailman School of Public Health* -  Master of Public Health (MPH) Candidate in Epidemiology Expected May 2022
+
+* Cornell University, Ithaca, NY - 
+Bachelor of Science in Human Development; Minors: Biometry & Statistics 
+
+
+# Experience 
+
+* Teaching Assistant/Program Facilitator, *Summer Public Health Scholars Program at Columbia University* New York, NY May 2021 – Present
+
+* Clinical Research Coordinator, *New York-Presbyterian/ Weill Cornell Medical Center*, New York, NY November 2019 – October 2020
+
+* Research Assistant, *Bronfenbrenner Center for Translational Research at Cornell University* Ithaca, NY June 2019 – August 2020
+
+* IRTA Intern, *National Institutes of Health*, Bethesda, MD June – August 2018
+
+
+
+Please head back to [Home](index.html) page for some plots for Problem #2. 
